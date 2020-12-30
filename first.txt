@@ -1,2 +1,5 @@
 初めてのgit練習
 プッシュテスト
+
+ git add
+ git commit
