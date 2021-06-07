@@ -1,11 +1,4 @@
 初めてのgit練習
 プッシュテスト
 
- git add
- git commit
- git status
- git diff
- git diff 2
- test
-
- firstの編集
+secondによる編集
