@@ -1,5 +1,3 @@
-初めてのgit練習
-プッシュテスト
-
-
-secondによる編集
+Its first text
+Its first text
+Its first text
